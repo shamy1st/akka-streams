@@ -1,2 +1,1 @@
-# akka-streams
-Akka Streams
+# Akka Streams
